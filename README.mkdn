@@ -1,6 +1,6 @@
 ![Evolution X](https://github.com/Evolution-X/manifest/raw/elle/EvoBanner.png)
 
-Evolution X
+Evolution X - For learning
 ===========
 
 [![Download Evolution X](https://img.shields.io/sourceforge/dt/evolution-x.svg)](https://sourceforge.net/projects/evolution-x/files/latest/download)
@@ -10,7 +10,7 @@ Evolution X
 ```bash
 
 # Initialize local repository
-repo init -u https://github.com/Evolution-X/manifest -b elle
+repo init -u https://github.com/gedeonszab/Mi-9T-evoX-t -b elle
 
 # Sync
 repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
